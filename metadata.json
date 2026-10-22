@@ -1,0 +1,6 @@
+{
+  "name": "Déjà Due",
+  "description": "Smart calendar-integrated date-specific alarm clock combining natural AI scheduling, Python automation, and cute, warm reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
